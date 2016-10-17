@@ -76,3 +76,9 @@ LOCK TABLES `device_info` WRITE;
 INSERT INTO `device_info` VALUES (1,'6000V及以上电机'),(2,'除铁器'),(3,'皮带秤'),(4,'采样机');
 /*!40000 ALTER TABLE `device_info` ENABLE KEYS */;
 UNLOCK TABLES;
+![image]
+(http://github.com/liubingying/liubingying/raw/master/D:\liubingying\liubingying/chaxun.png
+![image]
+(http://github.com/liubingying/liubingying/raw/master/D:\liubingying\liubingying/chaxun2.png
+
+
